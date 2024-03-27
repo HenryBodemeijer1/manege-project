@@ -1,0 +1,70 @@
+.card-theme{
+    top: 150px;
+    background-color: #fff!important;
+    border-color: #b7b7a4 !important;
+    border-width: 10px !important;
+    color: #cb997e !important;
+    font-weight: bold;
+    max-width: 900px!important;
+}
+
+.card-body-theme{
+    min-height: 630px;
+    border-width: 5px;
+}
+
+.th-theme{
+    color: #cb997e !important;
+    background-color: #fff !important;
+}
+
+.td-theme{
+    color: #cb997e !important;
+    background-color: #fff !important;
+    font-weight: normal;
+}
+
+.table-theme{
+    color: #fff !important;
+}
+
+.btn-info-theme{
+    background-color: #ddbaa2 !important;
+    border: 0px !important;
+    color: #fff !important;
+}
+
+.btn-danger-theme{
+    background-color: #F25E6A !important;
+    border: 0px !important;
+    color: #fff !important;
+}
+
+.btn-primary-theme{
+    background-color: #74A3E4 !important;
+    border: 0px !important;
+    color: #fff !important;
+}
+
+.btn-success-theme{
+    background-color: #a5a58d !important;
+    border: 0px !important;
+    color: #fff !important;
+}
+
+.form-control-theme{
+    background-color: #fff !important;
+    border-color:#b7b7a4 !important;
+    color:#cb997e !important;
+}
+
+.form-select-theme{
+    background-color: #fff !important;
+    border-color:#b7b7a4 !important;
+    color:#cb997e !important;
+}
+
+.spacer{
+    margin-left: 5px;
+    margin-right: 5px;
+}
